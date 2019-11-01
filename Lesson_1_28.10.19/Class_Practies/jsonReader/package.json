@@ -1,0 +1,14 @@
+{
+    "name": "jsonreader",
+    "version": "1.0.0",
+    "description": "this is a great module for json files reader",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "gal amouyal",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.0"
+    }
+}
