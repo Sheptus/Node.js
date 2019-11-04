@@ -1,12 +1,3 @@
-# Node.js
-
-Lecture and practies of Node.js
-
-## Lesson1:
-
-- node.js introduction
-- building first node module.
-
 ## Lesson 2:
 
 ### Nodejs API using express

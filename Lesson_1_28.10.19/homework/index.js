@@ -1,3 +1,9 @@
+//
+//
+//App logger 
+
+const fs = require("fs")
+
 module.exports = {
     writeToFile: (filePath, str) => {
         fs.appendFile(filePath, str + "\n", (err) => {
