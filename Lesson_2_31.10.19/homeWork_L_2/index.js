@@ -51,8 +51,6 @@ app.get("/logs", (req, res, next) => {
 
 //? Class Practies
 
-// const newDate = moment().format('YYYY MM DD');
-
 app.get('/Vication', (req, res, next) => {
     console.log("start req...")
     const {

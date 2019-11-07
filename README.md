@@ -2,10 +2,14 @@
 
 Lecture and practies of Node.js
 
+---
+
 ## Lesson1:
 
 - node.js introduction
 - building first node module.
+
+---
 
 ## Lesson 2:
 
@@ -31,3 +35,7 @@ Lecture and practies of Node.js
 - npm login
 
 ### nodemon for dev
+
+---
+
+## Lesson 3:

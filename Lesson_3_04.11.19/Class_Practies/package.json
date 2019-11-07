@@ -1,0 +1,21 @@
+{
+  "name": "class_practies_l_2",
+  "version": "1.0.0",
+  "description": "express Module to implement an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sheptus",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "console-stamp": "^0.2.9",
+    "express": "^4.17.1",
+    "log-timestamp": "^0.3.0",
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.4",
+    "s_app_logger": "^2.0.0"
+  },
+  "devDependencies": {}
+}
