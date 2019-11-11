@@ -11,10 +11,8 @@ router.use('/Register', (req, res, next) => {
         userName,
         email,
         password,
-        firstName,
-        lastName
     } = req.body;
-    if (!userName || !email || !password || !firstName || !lastName) {
+    if (!userName || !email || !password) {
         res.send("Some value is missing...")
     }
     if (!email.includes("@")) return res.send("Email address is not valid");
