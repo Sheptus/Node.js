@@ -21,4 +21,5 @@ api.use('/', saveFlights);
 api.listen(process.env.PORT || 5000, () => {
     if (err) return console.log(err);
     console.log(`Api is listening to port: ${process.env.PORT}`);
+
 })
