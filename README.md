@@ -67,3 +67,9 @@ Lecture and practies of Node.js
 - Correct way to implement authentication
 
   main docs - https://hapi.dev/family/joi/?v=16.1.7
+
+## Lesson 6:
+
+- @Hapi/Joi --> Joi validations
+- implemented end 2 end opertaions from client to server
+- using cors package
